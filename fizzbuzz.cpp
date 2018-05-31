@@ -12,7 +12,7 @@ int main() {
 	while (i<=j) {
   		if ((i%3) == 0){
     		cout<<"Fizz";
-  	} else if ((i%5) == 5 ){
+  	} else if ((i%5) == 0 ){
 	    	cout<<"Buzz";
   	} else {
 		cout<<i;	
