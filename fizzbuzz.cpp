@@ -9,7 +9,7 @@ int main() {
 	cin>>i;
 	cout<<"End: ";
 	cin>>j;
-	while (i=<j) {
+	while (i<=j) {
   		if ((i%3) == 0){
     		cout<<"Fizz";
   	} else {
